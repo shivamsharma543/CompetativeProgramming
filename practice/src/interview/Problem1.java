@@ -1,4 +1,4 @@
-package com.logical.practice.interview;
+package interview;
 
 
 // Island problem 

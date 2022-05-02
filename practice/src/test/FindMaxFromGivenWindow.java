@@ -1,4 +1,4 @@
-package com.logical.practice.test;
+package test;
 
 import java.util.ArrayList;
 import java.util.Deque;

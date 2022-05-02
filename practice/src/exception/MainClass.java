@@ -1,4 +1,4 @@
-package com.logical.practice.exception;
+package exception;
 
 public class MainClass {
 	

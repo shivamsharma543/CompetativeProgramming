@@ -1,4 +1,4 @@
-package com.logical.practice.test;
+package test;
 
 public class FindSubArrayWithMaxSum {
 

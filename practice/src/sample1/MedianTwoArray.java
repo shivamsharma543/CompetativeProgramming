@@ -1,4 +1,4 @@
-package com.logical.practice.sample1;
+package sample1;
 
 //find the median of the two sorted arrays.
 // ex. {1, 3} and {2} is 2

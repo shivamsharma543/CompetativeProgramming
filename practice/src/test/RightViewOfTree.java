@@ -1,4 +1,4 @@
-package com.logical.practice.test;
+package test;
 
 import java.util.ArrayDeque;
 import java.util.Queue;

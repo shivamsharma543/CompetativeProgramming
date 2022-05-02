@@ -1,4 +1,4 @@
-package com.logical.practice.stream;
+package stream;
 
 import java.util.HashSet;
 import java.util.Set;

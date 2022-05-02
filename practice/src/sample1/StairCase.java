@@ -1,4 +1,4 @@
-package com.logical.practice.sample1;
+package sample1;
 
 /*
 

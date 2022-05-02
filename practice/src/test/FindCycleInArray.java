@@ -1,4 +1,4 @@
-package com.logical.practice.test;
+package test;
 
 
 /////  Find a cycle in array when given value become index

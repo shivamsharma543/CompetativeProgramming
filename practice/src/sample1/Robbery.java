@@ -1,4 +1,4 @@
-package com.logical.practice.sample1;
+package sample1;
 
 //Implement the 'walk' method.
 //Assume robot inital position is (0,0).

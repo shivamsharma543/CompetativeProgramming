@@ -1,4 +1,4 @@
-package com.logical.practice.recursion;
+package recursion;
 
 public class fibonacci {
 

@@ -1,4 +1,4 @@
-package com.logical.practice.test.interview;
+package test.interview;
 
 import java.util.ArrayList;
 import java.util.Collections;

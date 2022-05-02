@@ -1,4 +1,4 @@
-package com.logical.practice.test.interview;
+package interview;
 
 import java.util.Arrays;
 

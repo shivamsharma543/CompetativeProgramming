@@ -1,4 +1,4 @@
-package com.logical.practice.sample1;
+package sample1;
 
 /*int[] arr = { 1, 2, 3, 4 };
 result = result && subArrayExceedsSum( arr, 6 ) == 2;

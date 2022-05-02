@@ -1,4 +1,4 @@
-package com.logical.practice.sample2;
+package sample2;
 
 public class RunLengthEncoding2 {
 

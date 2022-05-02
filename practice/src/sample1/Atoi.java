@@ -1,4 +1,4 @@
-package com.logical.practice.sample1;
+package sample1;
 
 // Takes a string str and returns the int value represented by
 // the string. 

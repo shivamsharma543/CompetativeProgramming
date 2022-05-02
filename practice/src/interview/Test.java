@@ -1,4 +1,4 @@
-package com.logical.practice.interview;
+package interview;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;

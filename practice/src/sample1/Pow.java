@@ -1,4 +1,4 @@
-package com.logical.practice.sample1;
+package sample1;
 
 /* Given base and integer exponent, compute value of base raised to the power of exponent.
  */

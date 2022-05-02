@@ -1,4 +1,4 @@
-package com.logical.practice.sample2;
+package sample2;
 
 import java.util.LinkedHashMap;
 import java.util.Map.Entry;

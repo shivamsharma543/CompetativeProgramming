@@ -1,4 +1,4 @@
-package com.logical.practice.sample1;
+package sample1;
 
 /**
  * Finds the first character that does not repeat anywhere in the input string

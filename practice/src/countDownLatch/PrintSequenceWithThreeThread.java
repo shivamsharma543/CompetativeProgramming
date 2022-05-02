@@ -1,4 +1,4 @@
-package com.logical.practice.countDownLatch;
+package countDownLatch;
 
 public class PrintSequenceWithThreeThread extends Thread {
 

@@ -1,4 +1,4 @@
-package com.logical.practice.countDownLatch;
+package countDownLatch;
 
 import java.util.ArrayList;
 import java.util.List;

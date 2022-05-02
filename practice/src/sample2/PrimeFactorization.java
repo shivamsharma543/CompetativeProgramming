@@ -1,4 +1,4 @@
-package com.logical.practice.sample2;
+package sample2;
 
 import java.util.HashSet;
 import java.util.Set;
